@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/airbnb-experiences/static/css/main.6a0fa3a5.css",
+    "main.js": "/airbnb-experiences/static/js/main.ce08908f.js",
+    "static/media/Card3Photo.png": "/airbnb-experiences/static/media/Card3Photo.4f5a7e1d7058ce574381.png",
+    "static/media/Card1Photo.png": "/airbnb-experiences/static/media/Card1Photo.988604cc30e5ceb88ba9.png",
+    "static/media/Card2Photo.png": "/airbnb-experiences/static/media/Card2Photo.c30d57ad473c71de5eef.png",
+    "static/media/image 23.png": "/airbnb-experiences/static/media/image 23.182e124b05b3ba5d12a0.png",
+    "static/media/image 27.png": "/airbnb-experiences/static/media/image 27.fdf7e3531e21e1430988.png",
+    "static/media/image 24.png": "/airbnb-experiences/static/media/image 24.3dfd07d13273ff57fc25.png",
+    "static/media/image 26.png": "/airbnb-experiences/static/media/image 26.84bab887e1a37e0904ec.png",
+    "static/media/image 22.png": "/airbnb-experiences/static/media/image 22.788b4a77a253a1eeb412.png",
+    "static/media/image 29.png": "/airbnb-experiences/static/media/image 29.12b5c76a59b65e8954dc.png",
+    "static/media/image 28.png": "/airbnb-experiences/static/media/image 28.31dded06dfa362fb19bc.png",
+    "static/media/image 30.png": "/airbnb-experiences/static/media/image 30.213d40cc00e884a57fd8.png",
+    "static/media/image 25.png": "/airbnb-experiences/static/media/image 25.b56b75b37e7b7a8bd42d.png",
+    "index.html": "/airbnb-experiences/index.html",
+    "main.6a0fa3a5.css.map": "/airbnb-experiences/static/css/main.6a0fa3a5.css.map",
+    "main.ce08908f.js.map": "/airbnb-experiences/static/js/main.ce08908f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a0fa3a5.css",
+    "static/js/main.ce08908f.js"
+  ]
+}
